@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2015\Projects\_qoq\_qoq\bin\Debug\_qoq.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\_qoq\_qoq\bin\Debug\_qoq.exe
+c:\users\admin\documents\visual studio 2015\Projects\_qoq\_qoq\bin\Debug\_qoq.pdb
+c:\users\admin\documents\visual studio 2015\Projects\_qoq\_qoq\obj\Debug\_qoq.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\_qoq\_qoq\obj\Debug\_qoq.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\_qoq\_qoq\obj\Debug\_qoq.exe
+c:\users\admin\documents\visual studio 2015\Projects\_qoq\_qoq\obj\Debug\_qoq.pdb
+c:\users\admin\documents\visual studio 2015\Projects\_qoq\_qoq\obj\Debug\_qoq.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\_qoq\_qoq\obj\Debug\_qoq.Form2.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\_qoq\_qoq\obj\Debug\_qoq.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\qoq\_qoq\bin\Debug\_qoq.exe.config
+C:\Users\Admin\Source\Repos\qoq\_qoq\obj\Debug\_qoq.exe
+C:\Users\Admin\Source\Repos\qoq\_qoq\obj\Debug\_qoq.pdb
