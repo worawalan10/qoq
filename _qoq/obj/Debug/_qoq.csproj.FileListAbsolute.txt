@@ -11,3 +11,14 @@ C:\Users\Admin\Documents\Visual Studio 2015\Projects\_qoq\_qoq\obj\Debug\_qoq.cs
 C:\Users\Admin\Source\Repos\qoq\_qoq\bin\Debug\_qoq.exe.config
 C:\Users\Admin\Source\Repos\qoq\_qoq\obj\Debug\_qoq.exe
 C:\Users\Admin\Source\Repos\qoq\_qoq\obj\Debug\_qoq.pdb
+C:\Users\vasana\Source\Repos\qoq\_qoq\bin\Debug\_qoq.exe.config
+C:\Users\vasana\Source\Repos\qoq\_qoq\obj\Debug\_qoq.exe
+C:\Users\vasana\Source\Repos\qoq\_qoq\obj\Debug\_qoq.pdb
+C:\Users\vasana\Source\Repos\qoq\_qoq\bin\Debug\_qoq.exe
+C:\Users\vasana\Source\Repos\qoq\_qoq\bin\Debug\_qoq.pdb
+C:\Users\vasana\Source\Repos\qoq\_qoq\obj\Debug\_qoq.csprojResolveAssemblyReference.cache
+C:\Users\vasana\Source\Repos\qoq\_qoq\obj\Debug\_qoq.Form1.resources
+C:\Users\vasana\Source\Repos\qoq\_qoq\obj\Debug\_qoq.Form2.resources
+C:\Users\vasana\Source\Repos\qoq\_qoq\obj\Debug\_qoq.Properties.Resources.resources
+C:\Users\vasana\Source\Repos\qoq\_qoq\obj\Debug\_qoq.csproj.GenerateResource.Cache
+C:\Users\vasana\Source\Repos\qoq\_qoq\obj\Debug\_qoq.Form3.resources

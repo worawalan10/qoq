@@ -20,7 +20,7 @@ namespace _qoq
 
             set
             {
-                x_form1 = 350;
+                x_form1 = 500;
             }
         }
 
@@ -33,7 +33,7 @@ namespace _qoq
 
             set
             {
-                y_form1 = 300;
+                y_form1 = 500;
             }
         }
 
@@ -43,18 +43,18 @@ namespace _qoq
             this.Y_form1 = y;
         }
 
+       
 
+        /*     public static bool operator ==(Location l1, Location l2)
+             {
+                 return (l1.X == l2.X && l1.Y == l2.Y);
+             }
 
-   /*     public static bool operator ==(Location l1, Location l2)
-        {
-            return (l1.X == l2.X && l1.Y == l2.Y);
-        }
-
-        public static bool operator !=(Location l1, Location l2)
-        {
-            return (l1.X != l2.X || l1.Y != l2.Y);
-        }
-  */
+             public static bool operator !=(Location l1, Location l2)
+             {
+                 return (l1.X != l2.X || l1.Y != l2.Y);
+             }
+       */
     }
 
 }

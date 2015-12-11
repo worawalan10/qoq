@@ -28,7 +28,7 @@ namespace _qoq
             balls = new List<ball>();
 
             Random r = new Random();
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < 3; i++)
             {
                 balls.Add(new ball(Width, Height, r));
             }

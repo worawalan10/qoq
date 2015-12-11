@@ -51,13 +51,13 @@ namespace _qoq
             this.xv = r.Next(5) + 5;
             this.yv = r.Next(5) + 5;
             this.r = r.Next(20) + 10;
-            brush = new SolidBrush(Color.FromArgb(r.Next(127) + 127, r.Next(127) + 127, r.Next(127) + 127));
+            brush = new SolidBrush(Color.FromArgb(r.Next(127) + 100, r.Next(127) + 100, r.Next(127) + 100));
         }
         
 
         public void move(int width, int height)
         {
-            if (_x - _r < 0 || _x + _r > width)
+            if (_x - _r < 150 || _x + _r > width)
             {
                 _xv = -_xv;
             }
@@ -65,12 +65,13 @@ namespace _qoq
             {
                 _yv = -_yv;
             }
+            _x += _xv;
             _y += _yv;
         }
         public void draw(Graphics g)
         {
             //ขนาดจุด
-            g.FillEllipse(brush, new RectangleF(_x - _r, _y - _r, _r * 2, _r * 2));
+            g.FillEllipse(brush, new RectangleF(_x - _r, _y -_r, _r+20, _r+20));
         }
     }
 }

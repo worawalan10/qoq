@@ -47,7 +47,7 @@
             // end_1
             // 
             this.end_1.BackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.end_1.Location = new System.Drawing.Point(250, 90);
+            this.end_1.Location = new System.Drawing.Point(262, 90);
             this.end_1.Name = "end_1";
             this.end_1.Size = new System.Drawing.Size(30, 30);
             this.end_1.TabIndex = 1;
@@ -57,7 +57,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(334, 261);
+            this.ClientSize = new System.Drawing.Size(684, 462);
             this.Controls.Add(this.end_1);
             this.Controls.Add(this.player);
             this.Name = "Form1";
